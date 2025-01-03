@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module clientApplication {
+	requires javafx.graphics;
+	requires javafx.fxml;
+	
+}
