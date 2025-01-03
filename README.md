@@ -1,5 +1,4 @@
 # Health Data Logger
-### About
 - A windows application that functions based on the roles - Patient and Technician(Admin).
     - #### Patients
         - Login to see their overall health data in a table format and as Line Graph.
